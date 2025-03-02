@@ -2,12 +2,12 @@
 	background-color:skyblue;
 }
 
- div :first-child{
+ p:first-child{
 	background-color:black;
 	color:white;
 }
 
- div :last-child{
+ p:last-child{
 	color: red;
 }
 ul li {
