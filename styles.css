@@ -16,10 +16,12 @@ ul li {
 }
  ul li:nth-child(1){
 	background-color:white;
+	font-size:22px;
 }
 
  ul li:nth-child(5){
 	background-color:white;
+	 font-size:22px;
 }
 
  ul li:nth-child(2){
