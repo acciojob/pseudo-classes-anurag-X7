@@ -2,12 +2,12 @@
 	background-color:skyblue;
 }
 
- p:first-child{
-	background-color:black;
+article p:first-child{
+	background-color:black ;
 	color:white;
 }
 
- p:last-child{
+article p:last-child{
 	color: red;
 }
 ul li {
